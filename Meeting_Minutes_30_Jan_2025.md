@@ -2,7 +2,8 @@
 
 | No | Action item | Owner | Status |
 -----| ------------| ------|----------
-| 1 | Discussed about Synopsis  which was shared  |Everyone | DONE |
+| 1 | Prepare the Synopsis about Internship |Everyone | DONE |
+| 2 | The synopsis has to be shared with your guide in College and get feedback fronm your guide | Everyone | In Progress |
 | 2 | Shilpa gave demo of the python program she has developed for testing GIMP editor| Shilpa | DONE |
 | 3 | Take GIMP as a starting point and develop a program to do autoated testing of  the basic feature of Online GIMP | Everyone|    - IN progress|
 | 4 | Download IEEE papers which are given as references | Everyone|    - IN progress|
