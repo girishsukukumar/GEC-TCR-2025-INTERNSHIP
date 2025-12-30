@@ -13,7 +13,7 @@
 | 9 | To study the papers, you are free to use Notebook LM and other GPTs based on your interest. | Everyone|    - IN progress|
 | 10 | Identify more website like GIMP which has a web based UI and automate the testing using Selenium| Everyone|    - IN progress|
 | 11 | TO Create Github account and upload your code to the respository | Eveyrone|    - IN progress|
-| 12 |  | USe Cypress inplace of  Selenium and document the differences between the two tools | Everyone | To be started | 
+| 12 | USe Cypress inplace of  Selenium and document the differences between the two tools   | Everyone | To be started | 
 
 
  
