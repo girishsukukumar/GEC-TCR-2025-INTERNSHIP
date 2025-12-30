@@ -10,7 +10,7 @@
 | 7 |Study them and a give a presentation on this papers which you had identified (2 to 3  paper min /  student)| Everyone|    - IN progress|
 | 8 | To study the papers, you are free to use Notebook LM and other GPTs based on your interest. | Everyone|    - IN progress|
 | 9 | Identify more website like GIMP which has a web based UI and automate the testing using Selenium| Everyone|    - IN progress|
-| 10 | OPEN  | Eveyrone|    - IN progress|
+| 10 | TO Create Github account and upload your code to the respository | Eveyrone|    - IN progress|
 | 11 |  | Everyone  | To be started | 
 
 
