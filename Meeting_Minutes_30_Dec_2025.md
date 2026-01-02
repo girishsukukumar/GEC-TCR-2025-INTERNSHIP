@@ -6,8 +6,8 @@
 | 2 | The synopsis has to be shared with your guide in College and get feedback fronm your guide | Everyone | In Progress |
 | 3 | Shilpa gave demo of the python program she has developed for testing GIMP editor| Shilpa | DONE |
 | 4 | Take GIMP as a starting point and develop a program to do automated testing of  the basic feature of Online GIMP or something similar and give a demo tomorrow | Everyone|    - IN progress|
-| 5 | Download IEEE papers which are given as references | Everyone|    - IN progress|
-| 6 | Two of you have to identify more IEEE and other research papers in the area of Exploratory testing using AI | Two students|    - IN progress|
+| 5 | Download IEEE papers which are given as references | Everyone| DONE |
+| 6 | Two of you have to identify more IEEE and other research papers in the area of Exploratory testing using AI | Two students| DONE|
 | 7 |Go through those papers, identify few papers which will be of interest to us| Everyone|    - IN progress|
 | 8 |Study them and a give a presentation on this papers which you had identified (2 to 3  paper min /  student)| Everyone|    - IN progress|
 | 9 | To study the papers, you are free to use Notebook LM and other GPTs based on your interest. | Everyone|    - IN progress|
