@@ -1,10 +1,6 @@
-# Meeting Minutes 2-Jan-2026
-
 | No | Action item | Owner | Status |
 -----| ------------| ------|----------
-| 1 | Research Paper Presentation  |Shilpa | on 8-JAn-2026 |
-| 2 | Research Paper Presentation  |Sayon | on 8-JAn-2026 |
-| 3 | Research Paper Presentation  |Irfana | on 8-JAn-2026 |
+| 1 | Prepare the Synopsis about Internship |Everyone | DONE |
 | 2 | The synopsis has to be shared with your guide in College and get feedback fronm your guide | Everyone | In Progress |
 | 3 | Shilpa gave demo of the python program she has developed for testing GIMP editor| Shilpa | DONE |
 | 4 | Take GIMP as a starting point and develop a program to do automated testing of  the basic feature of Online GIMP or something similar and give a demo tomorrow | Everyone|    - IN progress|
@@ -16,8 +12,3 @@
 | 10 | Identify more website like GIMP which has a web based UI and automate the testing using Selenium| Everyone|    - IN progress|
 | 11 | TO Create Github account and upload your code to the respository | Eveyrone|    - IN progress|
 | 12 | USe Cypress inplace of  Selenium and document the differences between the two tools   | Everyone | To be started | 
-
-
- 
-
-
