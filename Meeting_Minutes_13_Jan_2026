@@ -6,7 +6,6 @@
 | 4 |Develop or identify website for testing | Everyone|    - IN progress|
 | 5 |Write a python script to crawl any website and build a transition graph | Everyone|    - IN progress|
 
-![Overall Flow Chart ](images/flow_chart1.png)
 
 # Tools for Automation 
  |No | Tool Name  | Comments |
@@ -16,4 +15,7 @@
 |3|  Appium     | Free &  support python  |
 |4| Robot Framework |Free and support python |
 |5| Gauge      |Free & Support Python |
+
+
+![Overall Flow Chart ](images/flow_chart1.png)
 
