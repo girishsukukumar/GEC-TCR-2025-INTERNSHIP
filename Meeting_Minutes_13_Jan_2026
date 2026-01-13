@@ -6,9 +6,7 @@
 | 4 |Develop or identify website for testing | Everyone|    - IN progress|
 | 5 |Write a python script to crawl any website and build a transition graph | Everyone|    - IN progress|
 
-
-
-![Alt text](image-url "Optional title")
+![Overall Flow Chart ](images/flow_chart1.png)
 
 # Tools for Automation 
  |No | Tool Name  | Comments |
