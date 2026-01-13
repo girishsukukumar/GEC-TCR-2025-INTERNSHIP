@@ -17,5 +17,5 @@
 |5| Gauge      |Free & Support Python |
 
 
-![Overall Flow Chart ](images/flow_chart1.png)
+![Overall Flow Chart ](https://github.com/girishsukukumar/GEC-TCR-2025-INTERNSHIP/blob/main/images/flow_chart_1.png)
 
