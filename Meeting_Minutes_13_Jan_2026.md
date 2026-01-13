@@ -5,6 +5,11 @@
 | 3 |Select an automation tool from the below list or any other tool which you like | Everyone|    - IN progress|
 | 4 |Develop or identify website for testing | Everyone|    - IN progress|
 | 5 |Write a python script to crawl any website and build a transition graph | Everyone|    - IN progress|
+| 6 |Discussed High level flow chart of how to automate testcases | Everyone|   Done|
+
+
+![Overall Flow Chart ](https://github.com/girishsukukumar/GEC-TCR-2025-INTERNSHIP/blob/main/images/flow_chart_1.png)
+
 
 
 # Tools for Automation 
@@ -16,6 +21,4 @@
 |4| Robot Framework |Free and support python |
 |5| Gauge      |Free & Support Python |
 
-
-![Overall Flow Chart ](https://github.com/girishsukukumar/GEC-TCR-2025-INTERNSHIP/blob/main/images/flow_chart_1.png)
 
