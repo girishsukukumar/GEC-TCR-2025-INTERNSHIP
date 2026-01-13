@@ -6,6 +6,7 @@
 | 4 |Develop or identify website for testing | Everyone|    - IN progress|
 | 5 |Write a python script to crawl any website and build a transition graph | Everyone|    - IN progress|
 | 6 |Discussed High level flow chart of how to automate testcases | Everyone|   Done|
+| 7 |Review the list of useful Links on AI and Machine Learning  | Everyone|   Done|
 
 
 ![Overall Flow Chart ](https://github.com/girishsukukumar/GEC-TCR-2025-INTERNSHIP/blob/main/images/flow_chart_1.png)
