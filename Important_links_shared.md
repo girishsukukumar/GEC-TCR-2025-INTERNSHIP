@@ -6,3 +6,4 @@
 | 4 | What is RAG (From Code basics) | https://www.youtube.com/shorts/AHGfxeYIjMs| |
 | 5 | Fin bot with RAG  | https://www.youtube.com/watch?v=0Bfxs5S0HyM| |
 |6  |Introduction to Understanding RAG |https://youtu.be/fZM3oX4xEyg?si=tn5X2cVd8Urz6_Tb||
+|7| What is significance of e | https://youtu.be/4-IG2dTby6Q?si=EukYSTjjPH4Ls7bM||
