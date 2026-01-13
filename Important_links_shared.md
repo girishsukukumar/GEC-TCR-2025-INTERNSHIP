@@ -8,3 +8,4 @@
 |6  |Introduction to Understanding RAG |https://youtu.be/fZM3oX4xEyg?si=tn5X2cVd8Urz6_Tb||
 |7| What is significance of e | https://youtu.be/4-IG2dTby6Q?si=EukYSTjjPH4Ls7bM||
 |8| Alterntives to Selenium| https://www.browserstack.com/guide/top-selenium-alternatives||
+|9| Online Courses on AI (both Free and Paid are available )  |https://codebasics.io/|Course fees is affordable |
