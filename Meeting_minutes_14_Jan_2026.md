@@ -1,6 +1,5 @@
  No | Action item | Owner | Status |
 -----| ------------| ------|----------
-
 | 1 |Give a Demo of RAG example  | Everyone|    - IN progress|
 | 2 |Select an automation tool from the below list or any other tool which you like | Everyone|    - IN progress|
 | 3 |Develop or identify website for testing | Everyone|    - IN progress|
