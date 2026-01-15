@@ -7,9 +7,14 @@
 | 4 |Write a python script to crawl any website with online apps | Everyone| IN progress|
 | 5 |Generate Test cases from the State Transition Graph created  through crawling | Everyone|NOT STARTED|
 
+## Links to Try out with - Do not limit to these you are free to access other websites like this 
  No | Link Name | Description | Status |
 -----| ------------| ------|----------
 | 1 |https://todolistme.net/  |TODO LIST | -- |
 | 2 |https://docs.google.com/  | Google Online Apps - Use the top right nine dots icon to access these apps| -- |
 | 3 |https://outlook.office.com/ |Microsoft Online Apps| -- |
 | 4 |www.the-qrcode-generator.com |QR Code Generator| -- |
+|5  |https://www.calculator.net/|Online Calculator| --|
+|6  |https://tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html|Online Calculator| --|
+|7| https://www.calculatorsoup.com/calculators/math/basic.php|Online Calculator | |
+|8| There many online calcualators available | you can select anyone of them||
