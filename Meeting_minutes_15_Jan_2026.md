@@ -18,3 +18,4 @@
 |6  |https://tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html|Online Calculator| --|
 |7| https://www.calculatorsoup.com/calculators/math/basic.php|Online Calculator | |
 |8| https://web.whatsapp.com/ |you need to scan the QR code using mobile for authentication, that is all, I had tested it ||
+|9| https://www.telegram.org/apps |Telegram Online App  ||
